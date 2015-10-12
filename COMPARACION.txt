@@ -1,0 +1,12 @@
+Matriz Secuencial: 
+Tiempo: 1:12.10s
+
+Matriz Task 
+Tiempo:55:75.5s
+
+Matriz Concurrente:
+10:69s
+
+Matriz Concurrente Filas:
+Tiempo: 
+11:39.s
